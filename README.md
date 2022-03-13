@@ -1,7 +1,7 @@
-[![MasterHead] https://equinoxx.in/images/Courses-Banner/web-development.jpg]
+[![MasterHead](https://equinoxx.in/images/Courses-Banner/web-development.jpg)]
 <h1 align="center">Hi 👋, I'm Safat Kamal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
+ <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="poster"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safat-kamal&label=Profile%20views&color=0e75b6&style=flat" alt="safat-kamal" /> </p>
 
 - 🌱 I’m currently learning **CodeIgniter**
@@ -9,7 +9,6 @@
 - 💬 Ask me about **Php,JavaScript,MySql,Wordpress**
 
 - 📫 How to reach me **kamalashar54@gmail.com**
-- <img align="right" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="poster"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
