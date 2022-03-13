@@ -9,7 +9,7 @@
 - 💬 Ask me about **Php,JavaScript,MySql,Wordpress**
 
 - 📫 How to reach me **kamalashar54@gmail.com**
-- <img src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="poster"/>
+- <img align="right" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="poster"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
