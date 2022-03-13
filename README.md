@@ -1,7 +1,7 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--wdpFZDs5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/y5grcqwgqqm7gg71jbqd.jpg)
 <h1 align="center">Hi 👋, I'm Safat Kamal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
- <img align="right" src"https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" alt="coding"/>
+ <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473mqo8ifxmfvuvts2ctleuw81bb5fnca5d1c0luqs&rid=giphy.gif&ct=g" alt="coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safat-kamal&label=Profile%20views&color=0e75b6&style=flat" alt="safat-kamal" /> </p>
 
 - 🌱 I’m currently learning **CodeIgniter**
