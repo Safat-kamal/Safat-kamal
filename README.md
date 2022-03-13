@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--wdpFZDs5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/y5grcqwgqqm7gg71jbqd.jpg)
+![MasterHead](https://www.teahub.io/photos/full/248-2485461_kali-linux.jpg)
 <h1 align="center">Hi 👋, I'm Safat Kamal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
  <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473mqo8ifxmfvuvts2ctleuw81bb5fnca5d1c0luqs&rid=giphy.gif&ct=g" alt="coding"/>
