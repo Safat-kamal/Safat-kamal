@@ -1,4 +1,4 @@
-![MasterHead](https://www.teahub.io/photos/full/248-2485461_kali-linux.jpg)
+![MasterHead](https://appliedtechnology.humber.ca/assets/images/programs/diploma/computer-programmer/computer-programmer-banner.jpg)
 <h1 align="center">Hi 👋, I'm Safat Kamal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
  <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473mqo8ifxmfvuvts2ctleuw81bb5fnca5d1c0luqs&rid=giphy.gif&ct=g" alt="coding"/>
