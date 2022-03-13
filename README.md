@@ -1,4 +1,4 @@
-![MasterHead](https://icinga.com/wp-content/uploads/2021/06/jefferson-santos-9SoCnyQmkzI-unsplash-scaled.jpg)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--wdpFZDs5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/y5grcqwgqqm7gg71jbqd.jpg)
 <h1 align="center">Hi 👋, I'm Safat Kamal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
  <img align="right" src"https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" alt="coding"/>
