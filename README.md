@@ -4,16 +4,20 @@
  <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473mqo8ifxmfvuvts2ctleuw81bb5fnca5d1c0luqs&rid=giphy.gif&ct=g" alt="coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safat-kamal&label=Profile%20views&color=0e75b6&style=flat" alt="safat-kamal" /> </p>
 
+- 🔭 I’m currently working on **Smasher**
+
 - 🌱 I’m currently learning **CodeIgniter**
 
 - 💬 Ask me about **Php,JavaScript,MySql,Wordpress**
 
 - 📫 How to reach me **kamalashar54@gmail.com**
 
+- ⚡ Fun fact **I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/safat-kamal-8217ba104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safat-kamal-8217ba104/" height="30" width="40" /></a>
-<a href="https://fb.com/safat kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safat kamal" height="30" width="40" /></a>
+<a href="https://fb.com/KamalSafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safat kamal" height="30" width="40" /></a>
 <a href="https://instagram.com/safat_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safat_99" height="30" width="40" /></a>
 </p>
 
